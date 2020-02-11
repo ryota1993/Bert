@@ -1,2 +1,0 @@
-# Bert
-BERT JPN Model
